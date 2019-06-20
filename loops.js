@@ -23,11 +23,7 @@ function whileLoop(n){
   }
   return 'done'
 }
-function incrementVariable() {
-  i = i + 1;
-  return i;
+
+function doWhileLoop(num){
+  
 }
- 
-do {
-  console.log("doo-bee-doo-bee-doo");
-} while (incrementVariable() < 5);
