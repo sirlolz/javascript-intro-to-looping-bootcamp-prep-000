@@ -12,7 +12,7 @@ const expect = chai.expect
 
 function makeArray() {
   const array = []
-  const t =0
+  const t 
 
   for (let i = 0; i < t; i++) {
     array.push("I am a strange loop.")
